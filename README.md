@@ -348,7 +348,7 @@ Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image<
   
    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(99).pdf" style="text-decoration:none;">OccuSeg: Occupancy-aware 3D Instance Segmentation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(100).pdf" style="text-decoration:none;">Scan2Plan: Ecient Floorplan Generation from 3D Scans of Indoor Scenes</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(100).pdf" style="text-decoration:none;">Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(101).pdf" style="text-decoration:none;">Multimodal Shape Completion via Conditional Generative Adversarial Networks</a></li> 
   
