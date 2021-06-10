@@ -1,1 +1,1 @@
-# 3D-Shape-Analysis-Papers
+# 3D Shape Analysis Papers
