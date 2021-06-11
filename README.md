@@ -850,7 +850,7 @@ Interaction Exploration in 3D Environments</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(148).pdf" style="text-decoration:none;">3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(149).pdf" style="text-decoration:none;">An Overview of Machine Learning and its Applications</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(150).pdf" style="text-decoration:none;">Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection</a></li> 
 
