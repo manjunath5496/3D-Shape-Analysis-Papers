@@ -385,7 +385,7 @@ Neural Radiance Fields for View Synthesis</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(116).pdf" style="text-decoration:none;">LayoutMP3D: Layout Annotation of Matterport3D</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(117).pdf" style="text-decoration:none;">Label-Ecient Learning on Point Clouds using Approximate Convex Decompositions</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(117).pdf" style="text-decoration:none;">Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(118).pdf" style="text-decoration:none;">3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation</a></li>  
    
