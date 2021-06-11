@@ -695,7 +695,7 @@ Temporally Consistent 3D Human Pose and Shape from a Video</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(67).pdf" style="text-decoration:none;">Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors for Efficient and Robust 4D Reconstruction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(68).pdf" style="text-decoration:none;">DR-KFS: A Dierentiable Visual Similarity Metric for 3D Shape Reconstruction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(68).pdf" style="text-decoration:none;">DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction</a></li> 
  
   
    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/n(69).pdf" style="text-decoration:none;">Learning Shape Templates with Structured Implicit Functions</a></li>                              
