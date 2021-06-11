@@ -385,205 +385,199 @@ Neural Radiance Fields for View Synthesis</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(116).pdf" style="text-decoration:none;">LayoutMP3D: Layout Annotation of Matterport3D</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(117).pdf" style="text-decoration:none;">Label-Ecient Learning on Point Clouds using Approximate Convex Decompositions</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(118).pdf" style="text-decoration:none;">3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(119).pdf" style="text-decoration:none;">Attention-based Multi-modal Fusion Network for Semantic Scene Completion</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(120).pdf" style="text-decoration:none;">SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(121).pdf" style="text-decoration:none;">3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(122).pdf" style="text-decoration:none;">Physically Realizable Adversarial Examples for LiDAR Object Detection</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(123).pdf" style="text-decoration:none;">DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(124).pdf" style="text-decoration:none;">Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(125).pdf" style="text-decoration:none;">PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(126).pdf" style="text-decoration:none;">Anisotropic Convolutional Networks for 3D Semantic Scene Completion</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(127).pdf" style="text-decoration:none;">Finding Your (3D) Center:
+3D Object Detection Using a Learned Loss</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(128).pdf" style="text-decoration:none;">SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(129).pdf" style="text-decoration:none;">DualSDF: Semantic Shape Manipulation using a Two-Level Representation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(130).pdf" style="text-decoration:none;">Learning Generative Models of Shape Handles </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(131).pdf" style="text-decoration:none;">End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(132).pdf" style="text-decoration:none;">Cascaded Refinement Network for Point Cloud Completion</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(133).pdf" style="text-decoration:none;">Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
-for the Plan 9 Operating System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(134).pdf" style="text-decoration:none;">Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(135).pdf" style="text-decoration:none;">NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(136).pdf" style="text-decoration:none;">MLCVNet: Multi-Level Context VoteNet for 3D Object Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(137).pdf" style="text-decoration:none;">Few-Shot Single-View 3-D Object
+Reconstruction with Compositional Priors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(138).pdf" style="text-decoration:none;">Combinatorial 3D Shape Generation
+via Sequential Assembly</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(139).pdf" style="text-decoration:none;">Learning to Evaluate Perception Models Using Planner-Centric Metrics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(140).pdf" style="text-decoration:none;">Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
-Communications Platform</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(141).pdf" style="text-decoration:none;"> Learning Local Neighboring Structure for Robust 3D Shape Representation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(142).pdf" style="text-decoration:none;">Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(143).pdf" style="text-decoration:none;">3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(144).pdf" style="text-decoration:none;">CoReNet: Coherent 3D scene reconstruction from a single RGB image</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(145).pdf" style="text-decoration:none;">From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(146).pdf" style="text-decoration:none;">PointTriNet: Learned Triangulation of 3D Point Sets</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(147).pdf" style="text-decoration:none;">Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(148).pdf" style="text-decoration:none;">Vid2Curve: Simultaneous Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(149).pdf" style="text-decoration:none;">Point Cloud Completion by Skip-attention Network with Hierarchical Folding</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(150).pdf" style="text-decoration:none;">A Simple and Scalable Shape
+Representation for 3D Reconstruction</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(151).pdf" style="text-decoration:none;">FroDO: From Detections to 3D Objects </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(152).pdf" style="text-decoration:none;">Point2Mesh: A Self-Prior for Deformable Meshes </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(153).pdf" style="text-decoration:none;">MeshODE: A Robust and Scalable Framework for Mesh Deformation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(154).pdf" style="text-decoration:none;">P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(155).pdf" style="text-decoration:none;">RUHSNet: 3D Object Detection Using Lidar Data in Real Time</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(156).pdf" style="text-decoration:none;">GRNet: Gridding Residual Network for Dense Point Cloud Completion</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(157).pdf" style="text-decoration:none;">Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(158).pdf" style="text-decoration:none;">MeshSDF: Differentiable Iso-Surface Extraction</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(159).pdf" style="text-decoration:none;">SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(160).pdf" style="text-decoration:none;">CubifAE-3D: Monocular Camera Space Cubification for Auto-Encoder based 3D Object Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(161).pdf" style="text-decoration:none;">Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(162).pdf" style="text-decoration:none;">Splinter: Practical Private Queries on Public Data</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(163).pdf" style="text-decoration:none;">The Science of Software and System Design </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(162).pdf" style="text-decoration:none;">H3DNet: 3D Object Detection Using Hybrid Geometric Primitives</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(163).pdf" style="text-decoration:none;">3D Reconstruction of Novel Object Shapes from Single Images</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(164).pdf" style="text-decoration:none;">A Measurement Study of Available Bandwidth Estimation Tools</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(164).pdf" style="text-decoration:none;">ShapeFlow:
+Learnable Deformations Among 3D Shapes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(165).pdf" style="text-decoration:none;">3D Shape Reconstruction from Free-Hand Sketches</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(166).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(166).pdf" style="text-decoration:none;">Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(167).pdf" style="text-decoration:none;">SSL Splitting and Barnraising: Cooperative Caching with Authenticity Guarantees</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(167).pdf" style="text-decoration:none;">Neural Non-Rigid Tracking</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(168).pdf" style="text-decoration:none;">SSL splitting: securely serving data from untrusted caches</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(169).pdf" style="text-decoration:none;">SSL Splitting</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(170).pdf" style="text-decoration:none;">Structured Streams: a New Transport Abstraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(171).pdf" style="text-decoration:none;">Towards Optimization-Safe Systems:
-Analyzing the Impact of Undefined Behavior</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(172).pdf" style="text-decoration:none;">Stadium: A Distributed Metadata-Private
-Messaging System</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(173).pdf" style="text-decoration:none;">Certifying Checksum-Based Logging in the
-RapidFSCQ Crash-Safe Filesystem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(168).pdf" style="text-decoration:none;">SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(169).pdf" style="text-decoration:none;">Local Grid Rendering Networks for
+3D Object Detection in Point Clouds</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(170).pdf" style="text-decoration:none;">Long-term Human Motion Prediction
+with Scene Context</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(171).pdf" style="text-decoration:none;">Topology-Change-Aware Volumetric Fusion for Dynamic Scene Reconstruction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(172).pdf" style="text-decoration:none;">Meshing Point Clouds with Predicted
+Intrinsic-Extrinsic Ratio Guidance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(173).pdf" style="text-decoration:none;">Object-Aware Centroid Voting for Monocular 3D Object Detection</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(174).pdf" style="text-decoration:none;">Flexible, Wide-Area Storage for Distributed Systems Using Semantic Cues</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(175).pdf" style="text-decoration:none;">Tolerating Malicious Device Drivers in Linux</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(176).pdf" style="text-decoration:none;">Sybil-resistant DHT routing</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(174).pdf" style="text-decoration:none;">Object-Centric Multi-View Aggregation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(175).pdf" style="text-decoration:none;">Pillar-based Object Detection
+for Autonomous Driving</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(176).pdf" style="text-decoration:none;">Points2Surf: 
+Learning Implicit Surfaces from Point Clouds</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(177).pdf" style="text-decoration:none;">A Sybil-proof one-hop DHT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(177).pdf" style="text-decoration:none;">Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(178).pdf" style="text-decoration:none;">Graduate Admissions at MIT and Comparison-based
-Rank Aggregation: A Case Study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(179).pdf" style="text-decoration:none;">Automatic intrusion recovery with system-wide history</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(178).pdf" style="text-decoration:none;">Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(179).pdf" style="text-decoration:none;">Shape and Viewpoint without Keypoints</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(180).pdf" style="text-decoration:none;">Events Can Make Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(180).pdf" style="text-decoration:none;">Who Left the Dogs Out?
+3D Animal Reconstruction with Expectation Maximization in the Loop</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(181).pdf" style="text-decoration:none;">Optimizing unit test execution in large software programs using dependency analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(182).pdf" style="text-decoration:none;">Verifying an I/O-Concurrent File System </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(183).pdf" style="text-decoration:none;">Proactive replication for data durability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(181).pdf" style="text-decoration:none;">Learnable Cost Volume Using the Cayley Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(182).pdf" style="text-decoration:none;">Neural Sparse Voxel Fields</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(183).pdf" style="text-decoration:none;">History Repeats Itself: Human Motion Prediction via Motion Attention</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(184).pdf" style="text-decoration:none;">Language and Compiler Support for Dynamic Code Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(184).pdf" style="text-decoration:none;">CAD-Deform: Deformable Fitting of CAD Models to 3D Scans</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(185).pdf" style="text-decoration:none;">A Revised and Verified Proof of the Scalable Commutativity Rule</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(185).pdf" style="text-decoration:none;">MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(186).pdf" style="text-decoration:none;">Processing Analytical Queries over Encrypted Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(186).pdf" style="text-decoration:none;">Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(187).pdf" style="text-decoration:none;">Skip Lists: A Probabilistic Alternative to
-Balanced Trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(187).pdf" style="text-decoration:none;">Virtual Multi-view Fusion for 3D Semantic Segmentation</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(188).pdf" style="text-decoration:none;">Undefined Behavior: What Happened to My Code?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(188).pdf" style="text-decoration:none;">Weakly Supervised 3D Object Detection from Point Clouds</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(189).pdf" style="text-decoration:none;">UserRelative
-Names for Globally Connected Personal Devices</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(190).pdf" style="text-decoration:none;">Google's DeepWeb
-Crawl</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(189).pdf" style="text-decoration:none;">KAPLAN: A 3D Point Descriptor for Shape Completion</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(190).pdf" style="text-decoration:none;">Point Cloud Completion by Learning Shape Priors</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(191).pdf" style="text-decoration:none;">Persistent Personal Names for Globally Connected Mobile Devices  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(191).pdf" style="text-decoration:none;">Structural Plan of Indoor Scenes with Personalized Preferences  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(192).pdf" style="text-decoration:none;">Concurrent Data Structures</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(192).pdf" style="text-decoration:none;">PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(193).pdf" style="text-decoration:none;">Scalable Internet Routing
-on Topology-Independent Node Identities</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(193).pdf" style="text-decoration:none;">CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(194).pdf" style="text-decoration:none;">Unmanaged Internet Protocol: Taming the Edge Network Management Crisis</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(194).pdf" style="text-decoration:none;">VPC-Net: Completion of 3D Vehicles from MLS Point Clouds</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(195).pdf" style="text-decoration:none;">The A-Z of Programming Languages</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(195).pdf" style="text-decoration:none;">RocNet: Recursive Octree Network for Efficient 3D Deep Representation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(196).pdf" style="text-decoration:none;">UsenetDHT: A low-overhead design for Usenet</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(196).pdf" style="text-decoration:none;">GeLaTO: Generative Latent Textured Objects</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(197).pdf" style="text-decoration:none;">Making Linux Protection Mechanisms Egalitarian with UserFS</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(197).pdf" style="text-decoration:none;">PLACE: Proximity Learning of Articulation and Contact in 3D Environments</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(198).pdf" style="text-decoration:none;">Veil: Private Browsing Semantics Without
-Browser-side Assistance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(198).pdf" style="text-decoration:none;">Self-Sampling for Neural Point Cloud Consolidation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(199).pdf" style="text-decoration:none;">VerSum: Verifiable Computations over Large Public Logs</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(199).pdf" style="text-decoration:none;">Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(200).pdf" style="text-decoration:none;">Security bugs in embedded interpreters</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(200).pdf" style="text-decoration:none;">Learning Affordance Landscapes for Interaction Exploration in 3D Environments</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(201).pdf" style="text-decoration:none;">Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(201).pdf" style="text-decoration:none;">Occupancy Anticipation
+for Efficient Exploration and Navigation</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(202).pdf" style="text-decoration:none;">Vuvuzela: a scalable private messaging system</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(202).pdf" style="text-decoration:none;">OpenBot: Turning Smartphones into Robots</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(203).pdf" style="text-decoration:none;">Vx32: Lightweight User-level Sandboxing on the x86</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(203).pdf" style="text-decoration:none;">Large Scale Photometric Bundle Adjustment</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(204).pdf" style="text-decoration:none;">VXA: A Virtual Architecture for Durable Compressed Archives</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(205).pdf" style="text-decoration:none;">Programming Languages: A Brief Review</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(206).pdf" style="text-decoration:none;">A World Wide Web Without Walls</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(207).pdf" style="text-decoration:none;">Intrusion Recovery for Database-backed Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(204).pdf" style="text-decoration:none;">Reinforced Axial Refinement Network for Monocular 3D Object Detection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(205).pdf" style="text-decoration:none;">Improved Modeling of 3D Shapes with Multi-view Depth Maps</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(206).pdf" style="text-decoration:none;">Joint Pose and Shape Estimation of Vehicles from LiDAR Data</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(207).pdf" style="text-decoration:none;">Unsupervised Partial Point Set Registration via Joint Shape Completion and Registration</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(208).pdf" style="text-decoration:none;">Understanding Programming Languages</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(208).pdf" style="text-decoration:none;">A Density-Aware PointRCNN for 3D Object Detection in Point Clouds</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(209).pdf" style="text-decoration:none;">Dos and Don'ts of Client Authentication on the Web</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(210).pdf" style="text-decoration:none;">Whanau: A Sybil-Proof Distributed Hash Table</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(209).pdf" style="text-decoration:none;">Embodied Visual Navigation with Automatic Curriculum Learning in Real Environments</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(210).pdf" style="text-decoration:none;">Static and Animated 3D Scene Generation from Free-form Text Descriptions</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(211).pdf" style="text-decoration:none;">Efficient File Distribution in a Flexible, Wide-area File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(211).pdf" style="text-decoration:none;">Semi-Supervised Learning of Multi-Object 3D Scene Representations</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(212).pdf" style="text-decoration:none;">Securing Wide-area Storage in WheelFS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(213).pdf" style="text-decoration:none;">Building reliable mobile-aware applications using the Rover toolkit</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(212).pdf" style="text-decoration:none;">Refinement of Predicted Missing Parts Enhance Point Cloud Completion</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(213).pdf" style="text-decoration:none;">A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(214).pdf" style="text-decoration:none;">A Differential Approach to Undefined Behavior Detection</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(215).pdf" style="text-decoration:none;">A Comparison of Designs for
-Extensible and Extension-Oriented Compilers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(214).pdf" style="text-decoration:none;">Better Patch Stitching for Parametric Surface Reconstruction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(215).pdf" style="text-decoration:none;">Skeleton-bridged Point Completion: From Global Inference to Local Adjustment</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(216).pdf" style="text-decoration:none;">Xoc, an Extension-Oriented Compiler for Systems Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/3D-Shape-Analysis-Papers/blob/master/m(216).pdf" style="text-decoration:none;">Training Data Generating Networks: Linking 3D Shapes and Few-Shot Classification</a></li>
+  
+  
+  
+  
   </ul>
     
     
